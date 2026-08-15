@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ntos.vcxproj" Id="0a508afe-4077-4a3c-97d1-ba110230187b" />
+</Solution>

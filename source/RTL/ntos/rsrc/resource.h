@@ -1,0 +1,1 @@
+#define IDR_TEST_RCDATA    101
